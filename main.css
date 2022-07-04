@@ -40,3 +40,8 @@ section h2 {
 li {
   margin-bottom: 10px;
 }
+
+dt {
+  /*font-style: italic;*/
+  font-weight: bold;
+}
